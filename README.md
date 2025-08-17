@@ -17,7 +17,7 @@ Java • Node.js • React.js • Python • SSRS • Crystal Reports • Prompt
 🤝 Open to collaborating on innovative projects in web development, enterprise systems, and AI-driven applications.  
 
 📫 **Reach me at:**  
-- **LinkedIn:** [linkedin.com/in/zihan-hossain-1014a0183](https://www.linkedin.com/in/zihan-hossain-1014a0183)  
+- **LinkedIn:** [linkedin.com/in/zihan-hossain-1014a0183](https://www.linkedin.com/in/ismail-hossain-zihan)  
 - **Email:** zihanhossain02@gmail.com  
 
 
